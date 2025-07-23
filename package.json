@@ -1,0 +1,12 @@
+{
+  "name": "admin-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev:pure-thin": "pnpm -F @apps/pure-admin-thin run dev",
+    "dev:pure": "pnpm -F @apps/pure-admin run dev"
+  },
+  "license": "MIT",
+  "packageManager": "pnpm@10.13.1"
+}
