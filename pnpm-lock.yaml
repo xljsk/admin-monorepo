@@ -12,8 +12,6 @@ importers:
 
   apps/project-middle-office: {}
 
-  apps/project-miguan: {}
-
   apps/pure-admin:
     dependencies:
       '@amap/amap-jsapi-loader':
