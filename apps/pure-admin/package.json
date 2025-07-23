@@ -1,5 +1,5 @@
 {
-  "name": "@app/pure-admin",
+  "name": "@apps/pure-admin",
   "version": "1.0.0",
   "private": true,
   "type": "module",
