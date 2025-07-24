@@ -133,7 +133,7 @@ watch(loginDay, value => {
             <avatar class="avatar" />
           </div>
           <Motion>
-            <h2 class="outline-hidden">{{ title }}</h2>
+            <h2 class="outline-hidden">{{ title }}。</h2>
           </Motion>
 
           <el-form
