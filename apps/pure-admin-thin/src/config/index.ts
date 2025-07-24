@@ -42,6 +42,7 @@ export const getPlatformConfig = async (app: App): Promise<undefined> => {
         // 设置全局配置
         setConfig($config);
       }
+
       return $config;
     })
     .catch(() => {
