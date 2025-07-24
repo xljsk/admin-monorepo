@@ -16,6 +16,10 @@
   grid-gap: 18rem;
   padding: 0 2rem;
 }
+.avatar-box {
+  display: flex;
+  justify-content: center;
+}
 
 .img {
   display: flex;
@@ -39,7 +43,7 @@
 }
 
 .avatar {
-  width: 350px;
+  width: 80px;
   height: 80px;
 }
 

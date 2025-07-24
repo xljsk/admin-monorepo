@@ -129,8 +129,8 @@ watch(loginDay, value => {
       </div>
       <div class="login-box">
         <div class="login-form">
-          <div style="display: flex; justify-content: center">
-            <avatar class="avatar" style="width: 80px" />
+          <div class="avatar-box">
+            <avatar class="avatar" />
           </div>
           <Motion>
             <h2 class="outline-hidden">{{ title }}</h2>
